@@ -1,0 +1,14 @@
+{
+  "name": "rdfstore-test",
+  "version": "0.0.0",
+  "description": "Run the SPARQL test suite on rdfstore-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "rdfstore": "~0.8.2"
+  }
+}
